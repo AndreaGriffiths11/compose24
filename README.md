@@ -1,1 +1,1 @@
-# Netlify Compose24
+# Netlify Compose24 Demo
