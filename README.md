@@ -8,8 +8,19 @@ Welcome to the repo for my talk at Netlify Compose 24. Excited to share what I'v
 
 [Slides will be uploaded after the event. Stay tuned!]
 
+## About GitHub Copilot
 
+GitHub Copilot is your AI pair programmer, using machine learning to suggest code completions and entire functions in real-time. It's designed to help developers write code faster and with less effort.
 
+### Key Features:
+- Suggests code as you type
+- Understands context and intent
+- Supports multiple programming languages
+- Integrates with popular IDEs
+
+## About GitHub Copilot Workspace
+
+GitHub Copilot Workspace takes AI assistance a step further, providing a task-centric environment within GitHub to support your entire development process. Allows developers to brainstorm, plan, build, test, and run code using natural language. It leverages different Copilot-powered agents to support the entire development process while giving developers full control over each step.
 
 ### What Makes It Cool
 
