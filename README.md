@@ -1,6 +1,5 @@
 ![portal](https://github.com/user-attachments/assets/9c460e1b-9945-49e2-a226-25731a8f00ce)
-Sure thing! Here's the complete README:
-
+Thank you for your time! 
 # GitHub Copilot Workspace: Insights from Andreea Griffiths at Netlify Compose 24
 
 Welcome to the repo for my talk at Netlify Compose 24. Excited to share what I've learned with you all!
