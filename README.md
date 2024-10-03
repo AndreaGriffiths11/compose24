@@ -1,6 +1,6 @@
 ![portal](https://github.com/user-attachments/assets/9c460e1b-9945-49e2-a226-25731a8f00ce)
 Thank you for your time! 
-# Netlify Compose 24
+# Netlify Compose
 
 Welcome to the repo for my talk at Netlify Compose 24. Excited to share what I've learned with you all!
 
