@@ -24,11 +24,12 @@ GitHub Copilot Workspace takes AI assistance a step further, providing a task-ce
 
 ### What Makes It Cool
 
-1. **Context-Aware**: It gets your GitHub setup: repos, issues, PRs, the works.
-2. **Super Helpful**: Gives you a space to figure out tricky tasks with some AI magic.
-3. **Always There**: Ready to go on every issue in your enabled repos.
-4. **Teamwork-Friendly**: Share your sessions, publish links...collaboration made easy.
-5. **Flexible**: Fits right into your workflow with customizable deep links.
+
+1. **Context-Aware**: Fully integrated with your GitHub environment, including repositories, issues, and pull requests.
+2. **Intelligent Assistance**: Provides an AI-powered workspace for tackling complex tasks and problem-solving.
+3. **Ubiquitous Access**: Available on all issues within your enabled repositories, ensuring consistent support.
+4. **Collaboration-Oriented**: Facilitates teamwork through session sharing and link publishing capabilities.
+5. **Customizable Integration**: Seamlessly adapts to your workflow with configurable deep links, enhancing productivity.
 
 ### How It Can Help Your Team
 
@@ -63,5 +64,6 @@ I'm always up for a good chat:
 - **LinkedIn**: [Andreea Griffiths](https://www.linkedin.com/in/alacolombiadev)
 
 Wanna talk GitHub Copilot Workspace? Open source? (Check out [Open Source Friday](https://github.com/githubevents/open-source-friday) if you haven't!) Or just geek out? I'm your person!
-But hey, I'm not all about code. Catch me on my yoga mat, chasing that post-hot-yoga glow. Or ask me about my latest travel adventure...I'm always planning the next one!
+
+But hey, is not all about code. Catch me on my yoga mat, chasing that ~post-hot-yoga glow~ serotonin rush. Or ask me about my latest travel adventure...I'm always planning the next one!
 Can't wait to connect!​​​​​​​​​​​​​​​​
