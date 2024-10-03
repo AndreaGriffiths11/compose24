@@ -8,9 +8,8 @@ Welcome to the repo for my talk at Netlify Compose 24. Excited to share what I'v
 
 [Slides will be uploaded after the event. Stay tuned!]
 
-## About GitHub Copilot Workspace
 
-GitHub Copilot Workspace is your AI coding buddy, helping you tackle tasks from start to finish. It's like having a super-smart dev friend right there in your GitHub environment.
+
 
 ### What Makes It Cool
 
